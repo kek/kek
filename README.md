@@ -1,6 +1,6 @@
 🐧
 
-My hobby projects are currently mostly focused on seeing how far you can get with agentic coding, often starting out with sparse domain knowledge and minimal code review:
+My projects are currently mostly focused on seeing how far you can get with agentic coding, often starting out with sparse domain knowledge and minimal code review:
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor for desktop and Android companion app.
 
