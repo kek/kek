@@ -6,7 +6,7 @@ My projects are currently mostly focused on seeing how far you can get with agen
 
 [UNEX](https://github.com/kek/unex) – A platform for deploying distributed, content-addressed, immutable, runtime-ignorant Unison programs.
 
-[Quiet Computer](https://github.com/kek/quiet-computer) – A complete reimagining of personal computer use. Lens-based interfaces to any type of content, version control, infinite undo, personal programming, capability-based security and adaptive usability for all categories of user.
+[Quiet Computer](https://github.com/kek/quiet-computer) – A complete reimagining of personal computer use. Lens-based interfaces to any type of content, version control, infinite undo, personal programming, capability-based security and adaptive usability for all categories of user. An "everything burger" of computer science.
 
 [Ful & Dum](https://github.com/kek/ful) – Disk fullness checker (like `df`) and Disk usage monitor (like `ncdu`), but live updating.
 
