@@ -14,7 +14,7 @@ My projects are currently mostly focused on seeing how far you can get with agen
 
 [Submarine](https://github.com/kek/submarine) – Submarine simulator game. _Not very fun as a game._
 
-[Daylight](https://github.com/kek/daylight) – Switch between light and dark theme on Windows. _Usable, with bugs_
+[Daylight](https://github.com/kek/daylight) – Switch between light and dark theme on Windows. _Usable, with bugs._
 
 [Slop Shop](https://github.com/kek/slop-shop) – Agentic coding UI. _Not useful._
 
