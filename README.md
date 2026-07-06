@@ -4,7 +4,7 @@ My projects are currently mostly focused on seeing how far you can get with agen
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor for desktop, with Android companion app. _Usable._
 
-[UNEX](https://github.com/kek/unex) – A platform for deploying distributed, content-addressed, immutable, runtime-ignorant Unison programs. _Works as a prototype, not useful for production._
+[UNEX](https://github.com/kek/unex) – A platform for deploying distributed, content-addressed, immutable, runtime-ignorant Unison programs. _Works as a proof-of-concept, not useful or mature for production or development._
 
 [Quiet Computer](https://github.com/kek/quiet-computer) – A complete reimagining of personal computer use. Lens-based interfaces to any type of content, version control, infinite undo, personal programming, capability-based security and adaptive usability for all categories of user. An "everything burger" of computer science. _Work in progress._
 
