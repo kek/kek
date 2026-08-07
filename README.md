@@ -4,6 +4,8 @@ My projects are currently mostly focused on seeing how far you can get with agen
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor for desktop, with Android companion app. _Usable._
 
+[BEAM Nintendo](https://github.com/kek/beam-nintendo) – A port of AtomVM to Nintendo 3DS, with example Erlang programs doing input and graphics on the Nintendo console.
+
 [UNEX](https://github.com/kek/unex) – A platform for deploying distributed, content-addressed, immutable, runtime-ignorant Unison programs. _Works as a proof-of-concept, not useful or mature for production or development._
 
 [Quiet Computer](https://github.com/kek/quiet-computer) – A complete reimagining of personal computer use. Lens-based interfaces to any type of content, distributed and collaborative with version control, infinite undo, personal programming, capability-based security and adaptive usability for all categories of user. An "everything burger" of computer science. _Work in progress. Not likely to ever be useful._
