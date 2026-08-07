@@ -6,7 +6,7 @@ It's a lot of products with no users and I'm not sure any of it is marketable. I
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor for desktop, with Android companion app. _Usable._
 
-[BEAM Nintendo](https://github.com/kek/beam-nintendo) – A port of AtomVM to Nintendo 3DS, with example Erlang programs doing input and graphics on the Nintendo console.
+[BEAM Nintendo](https://github.com/kek/beam-nintendo) – A port of AtomVM to Nintendo 3DS, with example Erlang programs doing input and graphics on the Nintendo console. _Works._
 
 [UNEX](https://github.com/kek/unex) – A platform for deploying distributed, content-addressed, immutable, runtime-ignorant Unison programs. _Works as a proof-of-concept, not useful or mature for production or development._
 
