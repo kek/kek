@@ -22,6 +22,8 @@ It's a lot of products with no users and I'm not sure any of it is marketable. I
 
 [Slop Shop](https://github.com/kek/slop-shop) – Agentic coding UI. _Not useful._
 
+[Exe](https://exe.karleklund.se/) - Claude skill for writing programs without a programming language.
+
 <!--
 **kek/kek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
