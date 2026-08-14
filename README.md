@@ -6,7 +6,7 @@ It's a lot of products with no users and I'm not sure any of it is marketable. I
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor for desktop, with Android companion app. _Usable._
 
-[Nerves on RG40XXV](https://github.com/kek/nerves_anbernic) – Nerves system for a retro gaming handheld console.
+[Nerves on RG40XXV](https://github.com/kek/nerves_anbernic) – Nerves system for a retro gaming handheld console. _Can run programs, show a picture, draw with Scenic, GPU support, input support._
 
 [BEAM Nintendo](https://github.com/kek/beam-nintendo) – A port of AtomVM to Nintendo 3DS, with example Erlang programs doing input and graphics on the Nintendo console. _Works._
 
