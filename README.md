@@ -1,6 +1,6 @@
 🐧
 
-My projects are currently mostly focused on seeing how far you can get with agentic product design, often starting out with sparse domain knowledge and utilizing minimal code review.
+My projects are currently mostly focused on seeing how far you can get with agentic product design, often starting out with sparse domain knowledge and trying to get the agent to do as much self-validation as possible.
 
 It's a lot of products with no users and I'm not sure any of it is marketable. I still don't think it's proven that agents are truly valuable for product design or programming. But some of it is fun, or at least easy, to make.
 
