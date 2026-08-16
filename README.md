@@ -8,7 +8,7 @@
 
 [Modem](https://github.com/kek/modem) – Acousting modem running cross-platform as CLI tool, Android app and web page. Sends and receives text over speaker and microphone.
 
-[Exe](https://exe.karleklund.se/) - Claude skill for writing programs without a programming language. No code review needed or possible!
+[Exe](https://exe.karleklund.se/) - Claude skill for writing programs without using any programming language. No code review needed, nor possible!
 
 <!--
 **kek/kek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
