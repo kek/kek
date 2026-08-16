@@ -1,4 +1,4 @@
-# AGENTS BUILT IT 👽
+AGENTS BUILT IT 👽
 
 [Nerves on Anbernic RG40XXV](https://github.com/kek/nerves_system_rg40xxv) – Nerves system for a retro gaming handheld console.
 
