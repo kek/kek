@@ -1,6 +1,6 @@
 [MayonnaiOS](https://github.com/kek/mayonnaios) – Nerves-based emulation firmware for a retro gaming handheld console.
 
-[Nerves on Anbernic RG40XXV](https://github.com/kek/nerves_system_rg40xxv) – Board support package for MayonnaiOS on Anbernic RG40XXV.
+[Nerves System RG40XXV](https://github.com/kek/nerves_system_rg40xxv) – Board support package for MayonnaiOS on Anbernic RG40XXV.
 
 [Märklig](https://github.com/kek/marklig) – Markdown reader and editor.
 
